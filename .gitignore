@@ -1,0 +1,9 @@
+.vs
+AsyncProdCons/AsyncProdCons/bin
+AsyncProdCons/AsyncProdCons/obj
+AsyncProdCons/WpfApp1/bin
+AsyncProdCons/WpfApp1/obj
+AsyncProdCons/AsyncProdCons/.vs
+AsyncProdCons/WpfApp1/.vs
+DataSync/App.config
+DataSync.suo
